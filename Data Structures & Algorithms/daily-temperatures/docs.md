@@ -1,0 +1,2 @@
+- result = [0] * n  # faster
+- can create pair for (temp, idx) in Stack = [(temp, idx) and then use enumerate 
